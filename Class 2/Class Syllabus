@@ -1,6 +1,15 @@
 Class 2: Data Cleaning
 
+Class Content:
+1. Some more R Stuff
+   a. Functions
+   b. Vectors
+   c. Syntax Files
+2. Data Cleaning Philosophy
+3. Dplyr
 
 Files:
-1. Powerpoint PDF
-2. RNoobz2.csv
+1. Class 2 Powerpoint Slides (PDF)
+2. RNoobz2.csv (CSV Data File)
+3. RNoobz Class 2 (R Markdown File)
+4. Link to RMarkdown from class : http://rpubs.com/pjrakhshan/RNoobz2
